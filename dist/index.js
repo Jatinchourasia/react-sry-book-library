@@ -1,1 +1,1 @@
-"use strict";Object.defineProperty(exports,"__esModule",{value:!0});exports.Requirement=()=>React.createElement(React.Fragment,null,"this is Hello Component");
+"use strict";const e={Requirement:()=>React.createElement(React.Fragment,null,"this is Hello Component")};module.exports=e;
