@@ -1,6 +1,7 @@
 import React from "react";
 import { storiesOf } from "@storybook/react";
-import { Requirement } from "../components/Requirement";
+import { Requirement } from './../components/Requirement/Requirement';
+
 
 const stories = storiesOf("App Test", module);
 
