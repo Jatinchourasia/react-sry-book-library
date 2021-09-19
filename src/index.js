@@ -1,1 +1,6 @@
-export * from "./components/Requirement";
+import { Requirement } from './components/Requirement/Requirement';
+
+const component = {
+    Requirement
+}
+export default component;
