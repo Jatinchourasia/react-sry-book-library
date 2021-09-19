@@ -1,1 +1,1 @@
-const e={Requirement:()=>React.createElement(React.Fragment,null,"this is Hello Component")};export default e;
+const e=()=>React.createElement(React.Fragment,null,"this is Hello Component");export{e as Requirement};
